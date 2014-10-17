@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mkb:home|Door43 (mkb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mkb|d43-mkb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mkb/archive/master.zip|d43-mkb.zip]]
+
+**Recent Changes**
+{{changes>ns = mkb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mkb|Ethnologue data]]
+
